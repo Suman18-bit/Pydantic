@@ -1,0 +1,24 @@
+[
+    {
+        "name": "Suman",
+        "age": 30,
+        "weight": 70.5,
+        "married": false,
+        "allergies": [
+            "pollen",
+            "dust"
+        ],
+        "address": {
+            "street": "Bayal",
+            "city": "Nandigram",
+            "state": "West Bengal",
+            "zip": "721632"
+        },
+        "disease": "Flu",
+        "contact_number": {
+            "emergency": "45545"
+        },
+        "Email": "suman@gmail.com",
+        "LinkedIn": null
+    }
+]
