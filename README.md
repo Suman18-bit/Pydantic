@@ -1,17 +1,18 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:A855F7&height=200&section=header&text=FastAPI%20%2B%20Pydantic&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=REST%20APIs%20%26%20Data%20Validation&descSize=18&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=FastAPI%20%2B%20Pydantic&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=REST%20APIs%20%26%20Data%20Validation&descSize=18&descAlignY=58&color=gradient&customColorList=0D1117,A855F7)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Build+REST+APIs+with+FastAPI;Validate+data+with+Pydantic;Patient+and+student+records%2C+end+to+end)](https://github.com/Suman18-bit)
+
+---
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A855F7)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=A855F7)
 ![Pydantic](https://img.shields.io/badge/Pydantic-0D1117?style=for-the-badge&logo=pydantic&logoColor=A855F7)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-0D1117?style=for-the-badge)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-0D1117?style=for-the-badge&logo=uvicorn&logoColor=A855F7)
 
 </div>
 
----
 
 ## ✨ Overview
 
